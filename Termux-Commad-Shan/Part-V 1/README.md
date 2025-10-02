@@ -4,10 +4,10 @@
 
   <!-- Badges -->
   <p>
-    <a href="https://github.com/aiboy5/Termux-Command-Shan/stargazers"><img src="https://img.shields.io/github/stars/aiboy5/Termux-Command-Shan?style=for-the-badge&color=gold" alt="stars"></a>
-    <a href="https://github.com/aiboy5/Termux-Command-Shan/network/members"><img src="https://img.shields.io/github/forks/aiboy5/Termux-Command-Shan?style=for-the-badge&color=blue" alt="forks"></a>
-    <a href="https://github.com/aiboy5/Termux-Command-Shan/issues"><img src="https://img.shields.io/github/issues/aiboy5/Termux-Command-Shan?style=for-the-badge&color=orange" alt="issues"></a>
-    <a href="https://github.com/aiboy5/Termux-Command-Shan/blob/main/LICENSE"><img src="https://img.shields.io/github/license/aiboy5/Termux-Command-Shan?style=for-the-badge&color=green" alt="license"></a>
+    <a href="https://github.com/aiboy5/Termux-Commad-Shan/stargazers"><img src="https://img.shields.io/github/stars/aiboy5/Termux-Commad-Shan?style=for-the-badge&color=gold" alt="stars"></a>
+    <a href="https://github.com/aiboy5/Termux-Commad-Shan/network/members"><img src="https://img.shields.io/github/forks/aiboy5/Termux-Commad-Shan?style=for-the-badge&color=blue" alt="forks"></a>
+    <a href="https://github.com/aiboy5/Termux-Commad-Shan/issues"><img src="https://img.shields.io/github/issues/aiboy5/Termux-Commad-Shan?style=for-the-badge&color=orange" alt="issues"></a>
+    <a href="https://github.com/aiboy5/Termux-Commad-Shan/blob/main/LICENSE.md"><img src="https://img.shields.io/github/license/aiboy5/Termux-Commad-Shan?style=for-the-badge&color=green" alt="license"></a>
   </p>
 
   <h4>
@@ -17,9 +17,9 @@
     <span> · </span>
     <a href="https://www.youtube.com/@yont_sein">YouTube</a>
     <span> · </span>
-    <a href="https://github.com/aiboy5/Termux-Command-Shan/issues">Report Bug</a>
+    <a href="https://github.com/aiboy5/Termux-Commad-Shan/issues">Report Bug</a>
     <span> · </span>
-    <a href="https://github.com/aiboy5/Termux-Command-Shan/issues">Request Feature</a>
+    <a href="https://github.com/aiboy5/Termux-Commad-Shan/issues">Request Feature</a>
   </h4>
 </div>
 
@@ -40,8 +40,6 @@ This handbook is available in multiple languages:
 > Whether you're a curious beginner taking your first steps or a seasoned scripter looking for a comprehensive reference, this handbook has something for you.
 
 ---
-
-
 
 ## 🗺️ Roadmap: The 10 Chapters
 
@@ -80,6 +78,7 @@ Don't forget to give the project a star! Thanks again!
 
 ## 📜 License
 
-See `LICENSE.md` for more information.
+This project is licensed under the terms of **CC0 1.0 Universal**.  
+See [`LICENSE.md`](LICENSE.md) for details.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
